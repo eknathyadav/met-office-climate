@@ -65,9 +65,8 @@ Valid **Parameters : ["Tmax", "Tmin", "Tmean", "Sunshine",
     ```
     python manage.py runserver
     ```
-5. Copy http://127.0.0.1:8000/ and paste it on your browser.
-
-6. Use the API Endpoints By referring to API Reference.
+    
+5. Use the API Endpoints By referring to API Reference.
 
 ## Screenshots
 ![regions-list](https://user-images.githubusercontent.com/48616375/176000583-729fbfb5-a801-4a49-94cb-de87116b1895.PNG)
