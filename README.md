@@ -17,7 +17,7 @@ https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-seri
 
 In this project, I have extracted climate related data of all the regions in UK with all the temperature parameters from met Office. And then I have loaded the extracted Data into sqlite using Django ORM. For serving the data, I have created Django REST APIs. For now the API will server data, starting from 2012 to 2021
 
-For Extraction, I have used beautifullsoup4. You can view the whole extraction code in core/views.py/. 
+For Extraction, I have used beautifullsoup4. You can view the whole extraction code in **core/views.py/**. 
 I have commented the extraction part since I have already extracted the data.
 
 To run the extraction from scratch,Uncomment the extraction code, clear the db and run the server. Visit http://127.0.0.1:8000/ and click "Extract Data". Extraction will take few minutes.
