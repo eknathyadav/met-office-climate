@@ -6,7 +6,7 @@ https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-seri
 
 ## Technologies
 
-**Django:** The web framework for perfectionists with deadlines (Django builds better web apps with less code).
+**Django:** Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source..
 
 **Django Rest Framework:** A powerful and flexible toolkit for building Web APIs
 
