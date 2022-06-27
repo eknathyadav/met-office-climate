@@ -40,7 +40,7 @@ Valid **Parameters : ["Tmax", "Tmin", "Tmean", "Sunshine",
 #### API Endpoints
 
 
-| API | Required Parameter     | Description                       |
+| API | Required Parameters     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `http://127.0.0.1:8000/api/regions-list/`      | None | To get all the climate related data of all the regions|
 | `http://127.0.0.1:8000/api/regions-list/${parameter_name}/`      | parameter_name | To get climate related data of all the regions with parameter of choice|
