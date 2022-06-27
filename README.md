@@ -2,9 +2,7 @@
 
 Created a Django application to parse summarised weather data from UK MetOffice and serve it via Django Rest API
 
-
-
-
+https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series#yearOrdered
 
 ## Technologies
 
